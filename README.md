@@ -54,7 +54,7 @@ A modern, minimal, and responsive website template for creative agencies and dig
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/leon-agency-template.git
+git clone https://github.com/ElkarkouriMohamed/leon_template.git
 ```
 
 2. Open `index.html` in your browser
